@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             backgroundColor: Colors.green[900],
             title: const Text(
-              'Row Placemeht , Challange 3',
+              'Row Placemeht , Challange 3y',
               style: TextStyle(color: Colors.white),
             ),
           ),
